@@ -1,4 +1,4 @@
-# Netflix Categories
+# Netflix & Chill
 Netflix links to all hidden categories
 
 [Action & Adventure](http://www.netflix.com/browse/genre/1365)
