@@ -57,6 +57,16 @@ Netflix links to all hidden categories
 
 [Boxing Movies](http://www.netflix.com/browse/genre/12443)
 
+[Brazilian Movies](https://www.netflix.com/browse/genre/798)
+
+[Brazilian Comedies](https://www.netflix.com/browse/genre/17648)
+
+[Brazilian Documentaries](https://www.netflix.com/browse/genre/28269)
+
+[Brazilian Dramas](https://www.netflix.com/browse/genre/4425)
+
+[Brazilian TV Shows](https://www.netflix.com/browse/genre/69624)
+
 [British Movies](http://www.netflix.com/browse/genre/10757)
 
 [British TV Shows](http://www.netflix.com/browse/genre/52117)
